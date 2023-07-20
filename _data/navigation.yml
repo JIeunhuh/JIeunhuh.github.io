@@ -36,6 +36,8 @@ categories:
         url: /categories/java/
       - title: "DataBase"
         url: /categories/db/
-  - title: "etc"
-    url: /categories/categories3/
+      - title: "Spring Boot"
+        url: /categories/springboot/
+  - title: "Project"
+    url: /categories/project/
   
