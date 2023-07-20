@@ -19,7 +19,6 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Web"
-    url: /categories/
     children:
       - title: "HTML"
         url: /categories/html/
