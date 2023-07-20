@@ -18,7 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Front"
+  - title: "Web"
+    url: /categories/
     children:
       - title: "HTML"
         url: /categories/html/
@@ -30,7 +31,7 @@ categories:
         url: /categories/react/
       - title: "Type Script"
         url: /categories/ts/
-  - title: "Back"
+  - title: "Basics"
     children:
       - title: "JAVA"
         url: /categories/java/
