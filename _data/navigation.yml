@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: '/'
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/JIeunhuh
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,24 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
+  - title: "Front"
+    children:
+      - title: "HTML"
+        url: /categories/html/
+      - title: "CSS"
+        url: /categories/css/
+      - title: "Java Script"
+        url: /categories/js/
+      - title: "React"
+        url: /categories/react/
+      - title: "Type Script"
+        url: /categories/ts/
+  - title: "Back"
+    children:
+      - title: "JAVA"
+        url: /categories/java/
+      - title: "DataBase"
+        url: /categories/db/
+  - title: "etc"
     url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  
